@@ -82,6 +82,7 @@
 - RC2014 ColecoVision
 - Temp Sensors +
 - WiFi Scanner
+- ESP32 Camera
     
 <td>
     
