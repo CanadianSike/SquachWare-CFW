@@ -8,12 +8,11 @@ FULL DOCUMENTATION INCLUDING LINKS TO ALL AUTHORS WILL BE DONE SHORTLY.
 Right now I'm just getting the basics all sorted out!
 
 # Changes
+**Version 0.15**
+- Added ESP32-Camera App
+
 **Version 0.14**
 - Added Kuronons_Misc_EscapeFrom_LA Animation
-
-**Version 0.13**
-- Added Savable Tamagotchi.
-- Added French Canadian badUSB layouts.
 
 ## Included applications
 Included apps and respective credit to said authers and contributors can be found here:
